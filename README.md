@@ -1,2 +1,2 @@
-# Networking_Switch_Config
-In this lab I use packet tracer to do a basic switch configuration | Console and SSH connection
+
+![image](https://github.com/user-attachments/assets/776b8f11-dc33-4994-a855-6024a120f294)
